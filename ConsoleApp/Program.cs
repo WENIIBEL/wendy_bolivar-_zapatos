@@ -41,5 +41,4 @@ zapato.talla = 38;
 zapato.nombre = "zafiro";
 zapato.color = "negro";
 zapato.precio = 150000;
-zapato.tipo = "deportivo"
-zapato.material = "cuerina"
+zapato.tipo = "deportivo";
