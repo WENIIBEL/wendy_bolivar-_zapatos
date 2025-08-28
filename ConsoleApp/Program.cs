@@ -16,3 +16,11 @@ class Tipos
     String deportivo ;
 }
 
+class Stock
+{
+    int cantidad;
+    String virtual;
+    String  fisico ;
+}
+
+
