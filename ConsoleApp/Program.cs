@@ -6,5 +6,13 @@ class Zapatos
     int talla;
     String nombre;
     String color;
-    int precio
+    int precio;
 }
+
+class Tipos
+{
+    String cerrado;
+    String abierto;
+    String deportivo ;
+}
+
