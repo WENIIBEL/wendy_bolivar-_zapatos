@@ -23,4 +23,12 @@ class Stock
     String  fisico ;
 }
 
+class Materiales
+{
+    String cuero;
+    String cuerina;
+    String tela ;
+}
+
+
 
