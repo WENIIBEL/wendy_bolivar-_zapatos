@@ -17,21 +17,21 @@ class Tipos
 {
     String cerrado;
     String abierto;
-    String deportivo ;
+    String deportivo;
 }
 
 class Stock
 {
     int cantidad;
     String virtual;
-    String  fisico ;
+    String  fisico;
 }
 
 class Materiales
 {
     String cuero;
     String cuerina;
-    String tela ;
+    String tela;
 }
 
 
