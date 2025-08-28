@@ -7,9 +7,9 @@ class Zapatos
     String nombre;
     String color;
     int precio;
-    Tipos tipo = new Tipos;
-    Stock stock = new Stock;
-    List<Materiales>material = new List(Materiales);
+    Tipos tipo = new Tipos();
+    Stock stock = new Stock();
+    Materiales material = new Materiales();
 
 }
 
@@ -36,7 +36,7 @@ class Materiales
 
 
 
-Zapatos zapato = new Zapatos
+Zapatos zapato = new Zapatos();
 zapato.talla = 38;
 zapato.nombre = "zafiro";
 zapato.color = "negro";
