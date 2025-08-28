@@ -7,6 +7,8 @@ class Zapatos
     String nombre;
     String color;
     int precio;
+    List<Tipos>tipo = new List(Tipos)
+
 }
 
 class Tipos
